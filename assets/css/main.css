@@ -7570,7 +7570,15 @@ input.main-search-input:-ms-input-placeholder {
   position: relative;
 }
 
+.xlogox {
+  width: 70% !important;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px), only screen and (min-width: 576px) and (max-width: 767px) {
+  .xlogox {
+    width: 50% !important;
+  }
+  
   .contact__vmap {
     display: none;
   }

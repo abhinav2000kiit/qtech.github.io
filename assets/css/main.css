@@ -7578,6 +7578,10 @@ input.main-search-input:-ms-input-placeholder {
   .xlogox {
     width: 50% !important;
   }
+
+  .xreversex {
+    flex-direction: column-reverse !important;
+  }
   
   .contact__vmap {
     display: none;

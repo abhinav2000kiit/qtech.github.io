@@ -7574,9 +7574,17 @@ input.main-search-input:-ms-input-placeholder {
   width: 70% !important;
 }
 
+.xlogoxf {
+  width: 100% !important;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px), only screen and (min-width: 576px) and (max-width: 767px) {
   .xlogox {
     width: 50% !important;
+  }
+
+  .xlogoxf {
+    width: 75% !important;
   }
 
   .xreversex {

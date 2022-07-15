@@ -387,7 +387,7 @@ $(".search-trigger, .main-search-input").on('click', function (e) {
 		],
 		nav: true,
 		dots: true,
-		autoplay: 1000,
+		// autoplay: 1000,
 		stopOnHover : false,
 		responsive: {
 		  0: {

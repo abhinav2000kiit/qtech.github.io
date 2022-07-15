@@ -110,10 +110,10 @@
 /*----------------------------------------*/
 /* 1. Theme default css */
 body {
-  font-family: cursive;
+  font-family: Lato, sans-serif;
   font-weight: 500;
   font-style: normal;
-  color: #6f6f6f;
+  color: #555;
   font-size: 16px;
   line-height: 28px;
 }
@@ -222,7 +222,7 @@ p {
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
-  color: #6f6f6f;
+  color: #555;
   margin-bottom: 10px;
 }
 

@@ -2115,23 +2115,6 @@ select {
 
 /*  Header Top End CSS */
 /* 02. Header CSS */
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-  .header-menu {
-    padding: 20px 0px;
-  }
-}
-
-@media (max-width: 767px) {
-  .header-menu {
-    padding: 20px 0px;
-  }
-}
-
-@media only screen and (min-width: 576px) and (max-width: 767px) {
-  .header-menu {
-    padding: 20px 0px;
-  }
-}
 
 .header-menu.header-sticky.sticky-menu,
 .mobile-header.header-sticky.sticky-menu {

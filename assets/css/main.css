@@ -5322,10 +5322,14 @@ input.main-search-input:-ms-input-placeholder {
   color: #ffffff;
 }
 
+.team__text {
+  padding: 1rem 0px;
+}
+
 .team__text-title {
   text-transform: uppercase;
-  text-align: center;
-  font-size: 18px;
+  font-size: 24px;
+  font-weight: 500;
   margin-bottom: 0px;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
